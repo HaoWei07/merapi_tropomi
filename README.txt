@@ -1,0 +1,3 @@
+The Figures.ipynb notebook contains the code used in generating key datasets and figures found in the paper. The supplementary "Data Files" folder contains the required raw data, which consists of satellite files too big to be uploaded in GitHub. After downloading the "Data Files" folder, simply add it to the same folder containing the Figures.ipynb notebook.
+
+The sensitivity_analysis.py script consists of code used to process raw TROPOMI files. More information on it can be found within the Figures.ipynb notebook.
